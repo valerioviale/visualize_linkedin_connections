@@ -27,6 +27,6 @@ git clone https://github.com/your-username/visualize_linkedin_connections.git
 cd visualize_linkedin_connections
 
 Here the results on a data set from 2008 to 2024:
-![Screenshot](screenshot.png)
+![Screenshot]([screenshot.png](https://github.com/valerioviale/visualize_linkedin_connections/blob/b5535852914694bf68541958513333c87540f679/screenshot.png)https://github.com/valerioviale/visualize_linkedin_connections/blob/b5535852914694bf68541958513333c87540f679/screenshot.png)
 
 
