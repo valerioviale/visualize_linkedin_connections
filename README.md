@@ -17,7 +17,7 @@ Make sure you have the following installed:
 
 You can install the required packages using the following command:
 
-```bash
+bash
 pip install pandas plotly
 
 
