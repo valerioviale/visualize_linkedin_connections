@@ -16,14 +16,14 @@ Make sure you have the following installed:
 ## Installation
 
 You can install the required packages using the following command:
-
+```
 bash
 pip install pandas plotly
 
 
 git clone https://github.com/valerioviale/visualize_linkedin_connections.git
 cd visualize_linkedin_connections
-
+```
 
 Here the results on a data set from 2008 to 2024:
 [Screenshot](https://github.com/valerioviale/visualize_linkedin_connections/raw/main/screenshot.png)
