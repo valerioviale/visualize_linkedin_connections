@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 
 # Read the CSV file
-lkd = pd.read_csv('Linkedin_Connections_10k_2_Feb_2024.csv')
+lkd = pd.read_csv('Linkedin_Connections_10k_9_April_2024.csv')
 
 # Convert 'Connected On' column to datetime format
 lkd['Connected On'] = pd.to_datetime(lkd['Connected On'], format="%d/%m/%Y")
