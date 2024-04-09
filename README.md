@@ -1,6 +1,11 @@
 # visualize_linkedin_connections
 A Python program to visualize LinkedIn connections on a monthly basis.
 
+To start you need to get the file of connections from Linkedin:
+Settings-> Data Privacy->Export your data
+Select Connections wait for the archive to be ready-> Download
+insert the file name in your python program and finally run the program.
+
 ## Overview
 
 This Python script analyzes LinkedIn connections data from a CSV file, generating a monthly connection timeline plot using Plotly Express.
