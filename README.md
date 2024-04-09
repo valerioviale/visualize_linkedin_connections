@@ -25,8 +25,11 @@ git clone https://github.com/valerioviale/visualize_linkedin_connections.git
 cd visualize_linkedin_connections
 ```
 
-Here the results on a data set from 2008 to 2024:
-[Screenshot](https://github.com/valerioviale/visualize_linkedin_connections/raw/main/screenshot.png)
+Here the results on a data set from 2008(October) to 2024 (April):
+
+
+![MontlyConnectionChart](https://github.com/valerioviale/visualize_linkedin_connections/assets/34212301/1e687064-aa47-4919-92f5-aee866cafe73)
+
 
 
 <img width="1419" alt="Screenshot2024-02-02" src="https://github.com/valerioviale/visualize_linkedin_connections/assets/34212301/2396ba1f-0606-41e6-979c-73639f62ee8a">
