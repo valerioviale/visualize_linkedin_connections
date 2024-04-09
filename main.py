@@ -24,9 +24,11 @@ fig = px.line(
 )
 
 
+# Save the plot as an HTML file
+fig.write_html('chart.html')
 
-# Show the plot
-fig.show()
-
+# Open the HTML file in the default web browser
+import webbrowser
+webbrowser.open('chart.html')
 
 
