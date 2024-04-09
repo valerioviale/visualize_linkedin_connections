@@ -28,8 +28,5 @@ cd visualize_linkedin_connections
 Here the results on a data set from 2008(October) to 2024 (April):
 
 
-![MontlyConnectionChart](https://github.com/valerioviale/visualize_linkedin_connections/assets/34212301/1e687064-aa47-4919-92f5-aee866cafe73)
 
-
-
-<img width="1419" alt="Screenshot2024-02-02" src="https://github.com/valerioviale/visualize_linkedin_connections/assets/34212301/1e687064-aa47-4919-92f5-aee866cafe73">
+<img width="1419" alt="MonthlyConnectionChart_2024-04-09" src="https://github.com/valerioviale/visualize_linkedin_connections/assets/34212301/1e687064-aa47-4919-92f5-aee866cafe73">
