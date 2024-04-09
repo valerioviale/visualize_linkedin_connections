@@ -25,7 +25,7 @@ git clone https://github.com/valerioviale/visualize_linkedin_connections.git
 cd visualize_linkedin_connections
 ```
 
-Here the results on a data set from 2008(October) to 2024 (April):
+Here the results on a data set from 2008 (October) to 2024 (April):
 
 
 
